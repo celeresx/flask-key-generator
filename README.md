@@ -58,3 +58,16 @@ This is a Flask-based REST API microservice for generating random encryption key
    ```bash
    git clone https://github.com/celeresx/flask-key-generator.git
    cd flask-key-generator
+
+2. **Set up the Virtual Environment:**
+    ```bash
+    python -m venv venv
+    source venv/bin/activate # On Windows: venv\Scripts\activate
+    pip install -r requirements.txt
+
+3. **Run the Flask Application:**
+    ```bash
+    python key_generator.py
+
+4. **Access the API Locally:
+    Open your browser or API testing tool and use http://127.0.0.1:5000.
