@@ -69,5 +69,5 @@ This is a Flask-based REST API microservice for generating random encryption key
     ```bash
     python key_generator.py
 
-4. **Access the API Locally:
+4. **Access the API Locally:**
     Open your browser or API testing tool and use http://127.0.0.1:5000.
