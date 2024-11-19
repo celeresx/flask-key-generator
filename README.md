@@ -71,3 +71,9 @@ This is a Flask-based REST API microservice for generating random encryption key
 
 4. **Access the API Locally:**
     Open your browser or API testing tool and use http://127.0.0.1:5000.
+
+## UML Sequence Diagram
+
+The following diagram illustrates the interaction between the client, Flask microservice, and key generator logic:
+
+![UML Sequence Diagram](sequence_diagram.png)
